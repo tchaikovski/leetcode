@@ -17,3 +17,4 @@ class Solution:
             else:
                 return shortest_string[:n]
         return ''
+
